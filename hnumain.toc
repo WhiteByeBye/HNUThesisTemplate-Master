@@ -1,0 +1,26 @@
+\ttl@change@i {\@ne }{chapter}{0em}{\xiaosi \hei }{\prechaptername ~~\thecontentslabel ~~\postchaptername ~~~}{}{\titlerule *[5pt]{$\cdot $}\xiaosi \contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{2.5em}{\xiaosi \song }{\thecontentslabel \quad }{}{\hspace {.25em}\titlerule *[5pt]{$\cdot $}\xiaosi \contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{3.25em}{\xiaosi \song }{\thecontentslabel \quad }{}{\hspace {.25em}\titlerule *[5pt]{$\cdot $}\xiaosi \contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\contentsline {chapter}{学位论文原创性声明和学位论文版权使用授权书}{I}{section*.2}%
+\contentsline {chapter}{摘\hskip 1em\relax 要}{II}{section*.3}%
+\contentsline {chapter}{Abstract}{III}{section*.5}%
+\contentsline {chapter}{目\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 录}{IV}{section*.7}%
+\contentsline {chapter}{插图索引}{V}{section*.9}%
+\contentsline {chapter}{附表索引}{VI}{section*.11}%
+\contentsline {chapter}{\numberline {1}绪论}{1}{section*.13}%
+\contentsline {section}{\numberline {1.1}研究背景}{1}{section*.14}%
+\contentsline {chapter}{\numberline {2}高维因子模型的极大似然分析的理论与方法}{2}{section*.15}%
+\contentsline {chapter}{\numberline {3}参数估计}{3}{section*.16}%
+\contentsline {chapter}{\numberline {4}变量选取和指数构造}{4}{section*.17}%
+\contentsline {chapter}{\numberline {5}实证结果}{5}{section*.18}%
+\contentsline {chapter}{结\hskip 1em\relax 论}{6}{section*.19}%
+\contentsline {chapter}{参考文献}{7}{section*.22}%
+\contentsline {chapter}{附录A\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 抽样算法}{13}{section*.24}%
+\contentsline {section}{附录A.1\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 算法细节}{13}{section*.26}%
+\contentsline {section}{附录A.2\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 后验分布}{15}{section*.29}%
+\contentsline {chapter}{附录B\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 发表论文和参加科研情况说明}{15}{section*.30}%
+\contentsline {chapter}{致\hskip 1em\relax 谢}{17}{section*.32}%
+\contentsfinish 

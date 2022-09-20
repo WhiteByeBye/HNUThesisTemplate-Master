@@ -1,0 +1,133 @@
+% !Mode:: "TeX:UTF-8"
+\addcontentsline{toc}{chapter}{附录A~~~~抽样算法}
+\chapter*{附录A~~~~抽样算法}
+\renewcommand{\theequation}{A.\arabic{equation}}
+\newtheorem{\thelem}{\textbf{引理}}
+\renewcommand{\thelem}{A.\arabic{lem}}
+\renewcommand{\thetable}{A.\arabic{table}}
+\setlength{\parindent}{2em}
+\setcounter{lem}{0}
+\setcounter{equation}{0}
+\setcounter{table}{0}
+
+%\gdef\thepage{A\arabic{page}}
+\addcontentsline{toc}{section}{附录A.1~~算法细节}
+\section*{A.1~~算法细节}
+
+ \begin{lem} \label{lemma1}
+     令$N_{t+1}=\mathrm{Var}(y_{t+1}\vert y^{0,t},x_t,\bbK^{1,t+1})$。于是，
+     \begin{align}
+         N_{t+1}&=h_{t+1}^\prime \tilde{\Gamma}_{t+1}\tilde{\Gamma}_{t+1}^\prime h_{t+1}+G_{t+1}G_{t+1}^\prime \\
+         \mathbb{E}(y_{t+1}\vert y^{0,t},x_t,\bbK^{1,t+1})&=g_{t+1}+h_{t+1}^\prime (f_{t+1}+F_{t+1}x_t)
+     \end{align} 
+     $(x_{t+1}\vert y^{0,t+1},x_t,\bbK)$的均值和方差为：
+     \begin{align}
+         \mathbb{E}(x_{t+1}\vert y^{0,t+1},x_t,\bbK)&=a_{t+1}+A_{t+1}x_t+B_{t+1}y_{t+1} \\
+         \mathrm{Var}(x_{t+1}\vert y^{0,t+1},x_t,\bbK)&=C_{t+1}C_{t+1}^\prime
+     \end{align}
+     其中，
+     \begin{align}
+        a_{t+1}&=(I-B_{t+1}h_{t+1}^\prime)f_{t+1}-B_{t+1}g_{t+1}\\
+        A_{t+1}&=(I-B_{t+1}h_{t+1}^\prime)F_{t+1} \\
+        B_{t+1}&=\tilde{\Gamma}_{t+1}\tilde{\Gamma}_{t+1}^\prime h_{t+1}N_{t+1}^{-1} \\
+        C_{t+1}C_{t+1}^\prime&=\tilde{\Gamma}_{t+1}\tilde{\Gamma}_{t+1}^\prime-B_{t+1}N_{t+1}B_{t+1}^\prime
+     \end{align}
+     假设，
+     \begin{equation}
+        x_{t+1}=a_{t+1}+A_{t+1}x_t+B_{t+1}y_{t+1}+C_{t+1}z_{t+1}
+     \end{equation}
+     其中，$z_{t+1}\vert\bbK\sim \mathcal{N}(0,I)$独立于$x_t$和$y_{t+1}$。
+ \end{lem}
+ \begin{proof}
+     \begin{align*}
+        \mathrm{Cov}(x_{t+1},y_{t+1})&=\mathbb{E}\left[(x_{t+1}-\mathbb{E}(x_{t+1}\vert \bbK))(y_{t+1}-\mathbb{E}(y_{t+1}\vert \bbK))^\prime\right] \\
+        &=\mathbb{E}\left\{[B_{t+1}(y_{t+1}-\mu_{y_{t+1}})+C_{t+1}z_{t+1}](y_{t+1}-\mu_{y_{t+1}})^\prime\right\} \\
+        &=B_{t+1}N_{t+1}
+     \end{align*}
+     \begin{align*}
+        \mathrm{Cov}(x_{t+1},y_{t+1})&=\mathrm{Cov}(x_{t+1},\ g_{t+1}+h_{t+1}^\prime x_{t+1}+G_{t+1}u_{t+1}) \\
+         &= \mathbb{E}\left[(x_{t+1}-\mu_{x_{t+1}})((x_{t+1}-\mu_{x_{t+1}})^\prime h_{t+1}+u_{t+1}^\prime G_{t+1}^\prime)\right] \\
+         &= \tilde{\Gamma}_{t+1}\tilde{\Gamma}_{t+1}^\prime h_{t+1}
+     \end{align*}
+     \begin{equation}
+         B_{t+1}=\tilde{\Gamma}_{t+1}\tilde{\Gamma}_{t+1}^\prime h_{t+1} N_{t+1}^{-1}
+     \end{equation} 
+     显然，
+     \begin{equation}
+        \begin{split}
+            C_{t+1}C_{t+1}^\prime &= \mathrm{Var}_{t+1}(x\vert y)=\tilde{\Gamma}_{t+1}\tilde{\Gamma}_{t+1}^\prime
+                    -B_{t+1}N_{t+1}N_{t+1}^{-1}N_{t+1}B_{t+1}^\prime \\
+                &= \tilde{\Gamma}_{t+1}\tilde{\Gamma}_{t+1}^\prime -B_{t+1}N_{t+1}B_{t+1}^\prime
+        \end{split}
+     \end{equation}
+     \begin{equation*}
+         \begin{split}
+             x_{t+1} &= a_{t+1}+A_{t+1}x_t+B_{t+1}(g_{t+1}+h_{t+1}^\prime x_{t+1}+G_{t+1}\mu_{t+1}) \\
+             &= a_{t+1}+A_{t+1}x_t+B_{t+1}g_{t+1}+B_{t+1}h_{t+1}^\prime f_{t+1}+B_{t+1}h_{t+1}^\prime x_t+
+                B_{t+1}h_{t+1}^\prime \tilde{\Gamma}_{t+1}v_{t+1}+B_{t+1}G_{t+1}\mu_{t+1} \\
+             &=f_{t+1}+F_{t+1}x_t+\tilde{\Gamma}_{t+1}v_{t+1} \\
+         \end{split}
+     \end{equation*}
+     因此，
+     \begin{equation*}
+         \begin{split}
+             A_{t+1}+B_{t+1}h_{t+1}^\prime F_{t+1} &= F_{t+1} \\
+             a_{t+1} + B_{t+1}g_{t+1}+B_{t+1}h_{t+1}^\prime f_{t+1} &= f_{t+1}
+         \end{split}
+     \end{equation*}
+\end{proof}
+
+
+\begin{table}[!htbp]
+    \centering
+    \caption{混合分布中对应的七个正态分布的参数}
+    \begin{threeparttable}
+        \begin{tabular}{cccc}
+            \hline
+            $\omega$ & $q_j=\mathrm{Pr}\{\omega=j\}$ & $m_j$ & $v_j^2$ \\
+            \hline
+            1 & 0.00730 & $-$10.12999 & 5.79596 \\
+            2 & 0.10556 & $-$3.97281  & 2.61369 \\
+            3 & 0.00002 & $-$8.56686  & 5.17950 \\
+            4 & 0.04395 & 2.77786   & 0.16735 \\
+            5 & 0.34001 & 0.61942   & 0.64009 \\
+            6 & 0.24566 & 1.79518   & 0.34023 \\
+            7 & 0.25750 & $-$1.08819  & 1.26261 \\
+            \hline
+        \end{tabular}
+        \begin{tablenotes}
+            \footnotesize
+            \item[*] 来源: \mc{1998Kim}
+        \end{tablenotes}
+    \end{threeparttable}
+\label{tab:log-chi-sq-1}
+\end{table}
+
+\clearpage
+\addcontentsline{toc}{section}{附录A.2~~后验分布}
+\section*{附录A.2~~后验分布}
+本节将介绍部分参数的后验分布。
+
+
+\addcontentsline{toc}{chapter}{附录B~~~~发表论文和参加科研情况说明}
+\chapter*{附录B~~~~发表论文和参加科研情况说明}
+\setlength{\parindent}{0em}
+\textbf{（一）发表的学术论文}
+\begin{publist}
+\item 
+\end{publist}
+
+\vspace*{1em}
+\textbf{（二）申请及已获得的专利（无专利时此项不必列出）}
+\begin{publist}
+\item XXX，XXX. XXXXXXXXX：中国，1234567.8[P]. 2012-04-25.
+\end{publist}
+\vspace*{1em}
+\textbf{（三）参与的科研项目}
+\begin{publist}
+\item	XXX，XXX. XX~信息管理与信息系统, ~国家自然科学基金项目.课题编号：XXXX.
+\end{publist}
+\vfill
+\hangafter=1\hangindent=2em\noindent
+
+\setlength{\parindent}{2em}

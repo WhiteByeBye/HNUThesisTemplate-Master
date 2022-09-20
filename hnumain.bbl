@@ -1,0 +1,604 @@
+\begin{thebibliography}{83}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Primiceri(2005)]{2005Primiceri}
+Primiceri~G~E.
+\newblock \href{http://www.jstor.org/stable/3700675}{{Time Varying Structural
+  Vector Autoregressions and Monetary Policy}}[J].
+\newblock The Review of Economic Studies, 2005, 72\allowbreak (3): 821-852.
+
+\bibitem[Cogley和Sargent(2005)Cogley and Sargent]{2005COGLEY}
+Cogley~T, Sargent~T~J.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S1094202505000049}{{Drifts
+  and Volatilities: Monetary Policies and Outcomes in the Post WWII US}}[J].
+\newblock Review of Economic Dynamics, 2005, 8\allowbreak (2): 262-302.
+
+\bibitem[Fox(1972)]{1972-Fox}
+Fox~A~J.
+\newblock
+  \href{https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1972.tb00912.x}{{Outliers
+  in Time Series}}[J].
+\newblock Journal of the Royal Statistical Society: Series B (Methodological),
+  1972, 34\allowbreak (3): 350-363.
+
+\bibitem[Koop 等(2009)Koop, Leon-Gonzalez, and
+  Strachan]{2009KoopLeon-GonzalezStrachan}
+Koop~G, Leon-Gonzalez~R, Strachan~R~W.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S016518890800211X}{{On
+  the Evolution of the Monetary Policy Transmission Mechanism}}[J].
+\newblock Journal of Economic Dynamics and Control, 2009, 33\allowbreak (4):
+  997-1017.
+
+\bibitem[Gerlach 等(2000)Gerlach, Carter, and Kohn]{GCK2000}
+Gerlach~R, Carter~C, Kohn~R.
+\newblock
+  \href{https://www.tandfonline.com/doi/pdf/10.1080/01621459.2000.10474273}{{Efficient
+  Bayesian Inference for Dynamic Mixture Models}}[J].
+\newblock Journal of the American Statistical Association, 2000, 95\allowbreak
+  (451): 819-828.
+
+\bibitem[Giordani和Kohn(2008)Giordani and Kohn]{2008-Giordani-Kohn}
+Giordani~P, Kohn~R.
+\newblock
+  \href{https://www.tandfonline.com/doi/abs/10.1198/073500107000000241}{{Efficient
+  Bayesian Inference for Multiple Change-Point and Mixture Innovation
+  Models}}[J].
+\newblock Journal of Business \& Economic Statistics, 2008, 26\allowbreak (1):
+  66-77.
+
+\bibitem[Koop和Potter(2009)Koop and Potter]{2009Koop-prior-elicitation}
+Koop~G, Potter~S~M.
+\newblock
+  \href{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2354.2009.00547.x}{{Prior
+  Elicitation in Multiple Change-point Models}}[J].
+\newblock International Economic Review, 2009, 50\allowbreak (3): 751-772.
+
+\bibitem[Giordani和Kohn(2006)Giordani and Kohn]{2006gk_wpaper}
+Giordani~P, Kohn~R.
+\newblock \href{https://ideas.repec.org/p/hhs/rbnkwp/0196.html}{{Efficient
+  Bayesian Inference for Multiple Change-Point and Mixture Innovation Models}:
+  No.196}[R].
+\newblock Central Bank of Sweden, Stockholm: Sveriges Riksbank Working Paper
+  Series, 2006.
+
+\bibitem[Giordani和Kohn(2010)Giordani and Kohn]{2010GKadaptive}
+Giordani~P, Kohn~R.
+\newblock
+  \href{https://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07174}{{Adaptive
+  Independent Metropolis–Hastings by Fast Estimation of Mixtures of
+  Normals}}[J].
+\newblock Journal of Computational and Graphical Statistics, 2010,
+  19\allowbreak (2): 243-259.
+
+\bibitem[Del~Negro和Primiceri(2015)Del~Negro and Primiceri]{2015-Primiceri}
+Del~Negro~M, Primiceri~G~E.
+\newblock \href{https://doi.org/10.1093/restud/rdv024}{{Time Varying Structural
+  Vector Autoregressions and Monetary Policy: A Corrigendum}}[J].
+\newblock The Review of Economic Studies, 2015, 82\allowbreak (4): 1342-1345.
+
+\bibitem[Rauch 等(1965)Rauch, Tung, and Striebel]{1965rts}
+Rauch~H~E, Tung~F, Striebel~C~T.
+\newblock \href{https://doi.org/10.2514/3.3166}{{Maximum Likelihood Estimates
+  of Linear Dynamic Systems}}[J].
+\newblock AIAA Journal, 1965, 3\allowbreak (8): 1445-1450.
+
+\bibitem[Smith和Kohn(2000)Smith and Kohn]{2000SmithKohn}
+Smith~M, Kohn~R.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S030440760000018X}{Nonparametric
+  seemingly unrelated regression}[J].
+\newblock Journal of Econometrics, 2000, 98\allowbreak (2): 257-281.
+
+\bibitem[Kim 等(1998)Kim, Shephard, and Chib]{1998Kim}
+Kim~S, Shephard~N, Chib~S.
+\newblock \href{https://doi.org/10.1111/1467-937X.00050}{{Stochastic
+  Volatility: Likelihood Inference and Comparison with ARCH Models}}[J].
+\newblock The Review of Economic Studies, 1998, 65\allowbreak (3): 361-393.
+
+\bibitem[Barndorff-Nielsen和Shephard(2002)Barndorff-Nielsen and
+  Shephard]{2002-Barndorff-jrssb}
+Barndorff-Nielsen~O~E, Shephard~N.
+\newblock
+  \href{https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00336}{Econometric
+  analysis of realized volatility and its use in estimating stochastic
+  volatility models}[J].
+\newblock Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology), 2002, 64\allowbreak (2): 253-280.
+
+\bibitem[Barndorff-Nielsen 等(2008)Barndorff-Nielsen, Kinnebrock, and
+  Shephard]{2008BKS}
+Barndorff-Nielsen~O~E, Kinnebrock~S, Shephard~N.
+\newblock \href{https://ideas.repec.org/p/aah/create/2008-42.html}{{Measuring
+  Downside Risk — Realised Semivariance}: 2008-42}[R].
+\newblock Ny Munkegade, DK-8000 Aarhus C, Denmark: Department of Economics and
+  Business Economics, Aarhus University, 2008.
+
+\bibitem[Segal 等(2015)Segal, Shaliastovich, and Yaron]{2015SEGAL}
+Segal~G, Shaliastovich~I, Yaron~A.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0304405X15000756}{Good
+  and bad uncertainty: Macroeconomic and financial market implications}[J].
+\newblock Journal of Financial Economics, 2015, 117\allowbreak (2): 369-397.
+
+\bibitem[Patton和Sheppard(2015)Patton and Sheppard]{2015Patton-GoodVB}
+Patton~A~J, Sheppard~K.
+\newblock \href{https://doi.org/10.1162/REST\_a\_00503}{{Good Volatility, Bad
+  Volatility: Signed Jumps and The Persistence of Volatility}}[J].
+\newblock The Review of Economics and Statistics, 2015, 97\allowbreak (3):
+  683-697.
+
+\bibitem[Baker 等(2016)Baker, Bloom, and Davis]{baker2016measuring}
+Baker~S~R, Bloom~N, Davis~S~J.
+\newblock
+  \href{https://academic.oup.com/qje/article/131/4/1593/2468873}{{Measuring
+  Economic Policy Uncertainty}}[J].
+\newblock The quarterly journal of economics, 2016, 131\allowbreak (4):
+  1593-1636.
+
+\bibitem[Huang和Luk(2020)Huang and Luk]{2020HUANGLUK}
+Huang~Y, Luk~P.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S1043951X19301282}{{Measuring
+  Economic Policy Uncertainty in China}}[J].
+\newblock China Economic Review, 2020, 59: 101367.
+
+\bibitem[Karlsson 等(2009)Karlsson, Loewenstein, and
+  Seppi]{2009-KarlssonTheOE}
+Karlsson~N, Loewenstein~G, Seppi~D~J.
+\newblock
+  \href{https://link.springer.com/article/10.1007/s11166-009-9060-6}{The
+  ostrich effect: Selective attention to information}[J].
+\newblock Journal of Risk and Uncertainty, 2009, 38: 95-115.
+
+\bibitem[Diebold和Yilmaz(2009)Diebold and Yilmaz]{2009-Diebold}
+Diebold~F~X, Yilmaz~K.
+\newblock Measuring financial asset return and volatility spillovers, with
+  application to global equity markets[J].
+\newblock The Economic Journal, 2009, 119\allowbreak (534): 158-171.
+
+\bibitem[Diebold和Yilmaz(2012)Diebold and Yilmaz]{2012_DIEBOLD_IJF}
+Diebold~F~X, Yilmaz~K.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S016920701100032X}{{Better
+  to Give Than to Receive: Predictive Directional Measurement of Volatility
+  Spillovers}}[J].
+\newblock International Journal of Forecasting, 2012, 28\allowbreak (1): 57-66.
+
+\bibitem[Diebold和Yilmaz(2014)Diebold and Yilmaz]{2014-Diebold}
+Diebold~F~X, Yilmaz~K.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0304407614000712}{{On
+  the Network Topology of Variance Decompositions: Measuring the Connectedness
+  of Financial Firms}}[J].
+\newblock Journal of Econometrics, 2014, 182\allowbreak (1): 119-134.
+
+\bibitem[Pesaran和Shin(1998)Pesaran and Shin]{1998PESARAN}
+Pesaran~H, Shin~Y.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0165176597002140}{Generalized
+  impulse response analysis in linear multivariate models}[J].
+\newblock Economics Letters, 1998, 58\allowbreak (1): 17-29.
+
+\bibitem[Baruník 等(2014)Baruník, Kočenda, and Vácha]{2014-barunik-wpaper}
+Baruník~J, Kočenda~E, Vácha~L.
+\newblock \href{https://arxiv.org/abs/1308.1221v2}{{Asymmetric Connectedness of
+  Stocks: How Does Bad and Good Volatility Spill Over the U.S. Stock
+  Market?}}[R].
+\newblock Prague, Czech Republic: Institute of Economic Studies, Charles
+  University, 2014.
+
+\bibitem[Baruník 等(2016)Baruník, Kočenda, and Vácha]{2016_BARUNIK_jfm}
+Baruník~J, Kočenda~E, Vácha~L.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S1386418115000622}{{Asymmetric
+  Connectedness on the U.S. Stock Market: Bad and Good Volatility
+  Spillovers}}[J].
+\newblock Journal of Financial Markets, 2016, 27: 55-78.
+
+\bibitem[钟婉玲\ 等(2020)钟婉玲, 李海奇, and
+  杨胜刚]{2020-zhongwanling}
+钟婉玲, 李海奇, 杨胜刚.
+\newblock
+  \href{https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=ZGGK20200820008&uniplatform=NZKPT&v=l3ufLZsXuPkhvQtAmoVDo_rsgZSUtZzspwMV4v5bZWWua6r_yju52t9wmhd_oejJ}{国际油价、宏观经济变量与中国股市的尾部风险溢出效应研究}[J].
+\newblock 中国管理科学, 2020: 1-13.
+
+\bibitem[陈国进\ 等(2014)陈国进, 张润泽, and
+  姚莲莲]{2014-chen-zhang-yao}
+陈国进, 张润泽, 姚莲莲.
+\newblock
+  \href{https://www.cnki.com.cn/Article/CJFDTotal-JIRO201405007.htm}{政策不确定性与股票市场波动溢出效应}[J].
+\newblock 金融经济学研究, 2014\allowbreak (5).
+
+\bibitem[Barber和Odean(2007)Barber and Odean]{2007-Barber-Odean}
+Barber~B~M, Odean~T.
+\newblock \href{https://doi.org/10.1093/rfs/hhm079}{{All That Glitters: The
+  Effect of Attention and News on the Buying Behavior of Individual and
+  Institutional Investors}}[J].
+\newblock The Review of Financial Studies, 2007, 21\allowbreak (2): 785-818.
+
+\bibitem[P\'{a}stor和Veronesi(2012)P\'{a}stor and
+  Veronesi]{2012-Pastor-Veronesi}
+P\'{a}stor~L, Veronesi~P.
+\newblock \href{http://www.jstor.org/stable/23261358}{Uncertainty about
+  government policy and stock prices}[J].
+\newblock The Journal of Finance, 2012, 67\allowbreak (4): 1219-1264.
+
+\bibitem[李力\ 等(2018)李力, 宫蕾, and 王博]{2018-Li-Gong}
+李力, 宫蕾, 王博.
+\newblock
+  经济政策不确定性冲击与股市波动率——来自宏观与微观两个层面的经验证据[J].
+\newblock 金融学季刊, 2018, 12\allowbreak (4): 33.
+
+\bibitem[金雪军\ 等(2014)金雪军, 钟意, and
+  王义中]{2014-jin-zhong-wang}
+金雪军, 钟意, 王义中.
+\newblock 政策不确定性的宏观经济后果[J].
+\newblock 经济理论与经济管理, 2014\allowbreak (2): 10.
+
+\bibitem[Ruan和Zhang(2016)Ruan and Zhang]{2016-RUAN}
+Ruan~X, Zhang~J~E.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0165176516304414}{Investor
+  attention and market microstructure}[J].
+\newblock Economics Letters, 2016, 149: 125-130.
+
+\bibitem[Hayek(1945)]{1945-hayekuse}
+Hayek~F~A.
+\newblock \href{https://www.jstor.org/stable/1809376}{The use of knowledge in
+  society}[J].
+\newblock The American economic review, 1945, 35\allowbreak (4): 519-530.
+
+\bibitem[De~Bont和Thaler(1985)De~Bont and Thaler]{1985-debont-thaler}
+De~Bont~W~F~M, Thaler~R.
+\newblock
+  \href{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1985.tb05004.x}{Does
+  the stock market overreact?}[J].
+\newblock The Journal of Finance, 1985, 40\allowbreak (3): 793-805.
+
+\bibitem[宫晓莉和熊熊(2020)宫晓莉 and 熊熊]{2020gong}
+宫晓莉, 熊熊.
+\newblock
+  \href{http://www.jryj.org.cn/CN/abstract/article_740.shtml}{波动溢出网络视角的金融风险传染研究}[J].
+\newblock 金融研究, 2020, 479\allowbreak (5): 19-39.
+
+\bibitem[Carter和Kohn(1994)Carter and Kohn]{CK1994}
+Carter~C~K, Kohn~R.
+\newblock \href{https://doi.org/10.1093/biomet/81.3.541}{{On Gibbs Sampling for
+  State Space Models}}[J].
+\newblock Biometrika, 1994, 81\allowbreak (3): 541-553.
+
+\bibitem[Elliott 等(1996)Elliott, Rothenberg, and Stock]{1996-ERS}
+Elliott~G, Rothenberg~T~J, Stock~J.
+\newblock
+  \href{https://EconPapers.repec.org/RePEc:ecm:emetrp:v:64:y:1996:i:4:p:813-36}{{Efficient
+  Tests for an Autoregressive Unit Root}}[J].
+\newblock Econometrica, 1996, 64\allowbreak (4): 813-36.
+
+\bibitem[Newton和Raftery(1994)Newton and Raftery]{1994-Newton}
+Newton~M~A, Raftery~A~E.
+\newblock
+  \href{https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1994.tb01956.x}{{Approximate
+  Bayesian Inference with the Weighted Likelihood Bootstrap}}[J].
+\newblock Journal of the Royal Statistical Society: Series B (Methodological),
+  1994, 56\allowbreak (1): 3-26.
+
+\bibitem[Frühwirth-Schnatter和Wagner(2008)Frühwirth-Schnatter and
+  Wagner]{2008-fw-marginal}
+Frühwirth-Schnatter~S, Wagner~H.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S016794730800176X}{{Marginal
+  Likelihoods for Non-Gaussian Models Using Auxiliary Mixture Sampling}}[J].
+\newblock {Computational Statistics \& Data Analysis}, 2008, 52\allowbreak
+  (10): 4608-4624.
+
+\bibitem[Chan和Grant(2015)Chan and Grant]{2015-CHAN-EL}
+Chan~J~C, Grant~A~L.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0165176515001378}{{Pitfalls
+  of Estimating the Marginal Likelihood Using the Modified Harmonic Mean}}[J].
+\newblock {Economics Letters}, 2015, 131: 29-33.
+
+\bibitem[Lilliefors(1967)]{Lilliefors}
+Lilliefors~H~W.
+\newblock
+  \href{https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482916}{{On
+  the Kolmogorov-Smirnov Test for Normality with Mean and Variance
+  Unknown}}[J].
+\newblock {Journal of the American Statistical Association}, 1967,
+  62\allowbreak (318): 399-402.
+
+\bibitem[Chan和Jeliazkov(2009)Chan and Jeliazkov]{ChanJeliazkov2009}
+Chan~J, Jeliazkov~I.
+\newblock
+  \href{https://espace.library.uq.edu.au/view/UQ:205502/statespace.pdf}{{Efficient
+  Simulation and Integrated Likelihood Estimation in State Space Models}}[J].
+\newblock Journal of Computational and Graphical Statistics, 2009, 18: 457-480.
+
+\bibitem[Baruník和Křehlík(2018)Baruník and Křehlík]{2008_Barunik_jfe}
+Baruník~J, Křehlík~T.
+\newblock
+  \href{https://academic.oup.com/jfec/article-pdf/16/2/271/24595177/nby001.pdf}{{Measuring
+  the Frequency Dynamics of Financial Connectedness and Systemic Risk}}[J].
+\newblock Journal of Financial Econometrics, 2018, 16\allowbreak (2): 271-296.
+
+\bibitem[Li 等(2015)Li, Liu, and Yu]{2015-Li-chisq}
+Li~Y, Liu~X~B, Yu~J.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S030440761500192X}{{A
+  Bayesian Chi-Squared Test for Hypothesis Testing}}[J].
+\newblock Journal of Econometrics, 2015, 189\allowbreak (1): 54-69.
+
+\bibitem[Liu 等(2020)Liu, Li, Yu, and Zeng]{2020-Liu-posterior}
+Liu~X, Li~Y, Yu~J, et~al.
+\newblock
+  \href{http://www.mysmu.edu/faculty/yujun/Research/ABT33.pdf}{{Posterior-Based
+  Wald-Type Statistics for Hypothesis Testing}}[R].
+\newblock Singapore Management University: School of Economics, 2020.
+
+\bibitem[Korobilis和Yilmaz(2018)Korobilis and Yilmaz]{koc:wpaper}
+Korobilis~D, Yilmaz~K.
+\newblock \href{https://ideas.repec.org/p/koc/wpaper/1802.html}{{Measuring
+  Dynamic Connectedness with Large Bayesian VAR Models}: 1802}[R].
+\newblock Sariyer, Istanbul 34450, Turkey: Koc University-TUSIAD Economic
+  Research Forum, 2018.
+
+\bibitem[Ghysels 等(1996)Ghysels, Harvey, and Renault]{1996GHYSELS}
+Ghysels~E, Harvey~A~C, Renault~E.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0169716196140074}{5
+  stochastic volatility}[M]//\allowbreak
+Handbook of Statistics: volume~14\quad Statistical Methods in Finance.
+\newblock [S.l.]: Elsevier, 1996: 119-191.
+
+\bibitem[Shephard(2005)]{2005Shephard}
+Shephard~N.
+\newblock Oup catalogue: {Stochastic Volatility: Selected Readings}[M].
+\newblock Oxford University: Oxford University Press, 2005.
+
+\bibitem[石勇\ 等(2017)石勇, 唐静, and 郭琨]{2017shi}
+石勇, 唐静, 郭琨.
+\newblock
+  社交媒体投资者关注、投资者情绪对中国股票市场的影响[J].
+\newblock 中央财经大学学报, 2017\allowbreak (7): 45-53.
+
+\bibitem[潘玥行(2017)]{2017pan}
+潘玥行.
+\newblock
+  \href{https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMTA1MTkSCUQwMTMzNTk1NxoIaHlpdWsxOXE%3D}{投资者关注度对股票表现的实证研究}[D].
+\newblock 哈尔滨工业大学: 哈尔滨工业大学硕士论文, 2017.
+
+\bibitem[李正辉\ 等(2021)李正辉, 钟俊豪, and 董浩]{2021-li}
+李正辉, 钟俊豪, 董浩.
+\newblock
+  \href{https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjExMDI2EhJ4dGdjbGx5c2oyMDIxMDgwMDEaCHJlYndjbXN0}{经济政策不确定性宏观金融效应的统计测度研究}[J].
+\newblock 系统工程理论与实践, 2021, 41\allowbreak (8): 1897-1910.
+
+\bibitem[李成威和傅志华(2020)李成威 and 傅志华]{2020lichengwei}
+李成威, 傅志华.
+\newblock 应对疫情对经济影响的关键是构建确定性[J].
+\newblock 财政研究, 2020\allowbreak (3): 3-9,118.
+
+\bibitem[Ichev和Marinč(2018)Ichev and Marinč]{2018-Ichev}
+Ichev~R, Marinč~M.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S1057521917301862}{Stock
+  prices and geographic proximity of information: Evidence from the ebola
+  outbreak}[J].
+\newblock International Review of Financial Analysis, 2018, 56: 153-166.
+
+\bibitem[Fischhoff(2013)]{2013-fischhoff-risk}
+Fischhoff~B.
+\newblock {Risk Perception and Communication}[M]//\allowbreak
+{Risk Analysis and Human Behavior}.
+\newblock Carnegie Mellon University: Routledge, 2013: 17-46.
+
+\bibitem[Eisenstat 等(2016)Eisenstat, Chan, and
+  Strachan]{2016Chan_Eisenstat_Strachan}
+Eisenstat~E, Chan~J~C~C, Strachan~R~W.
+\newblock
+  \href{http://dx.doi.org/https://doi.org/10.1080/07474938.2015.1092808}{{Stochastic
+  Model Specification Search for Time-Varying Parameter VARs}}[J].
+\newblock Econometric Reviews, 2016, 35\allowbreak (8-10): 1638-1665.
+
+\bibitem[Behrendt和Zimmermann(2018)Behrendt and
+  Zimmermann]{2018behrendt_wikipedia}
+Behrendt~S, Zimmermann~D.
+\newblock
+  \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3220053}{{Wikipedia
+  Search Momentum and Stock Returns}}[J].
+\newblock Available at SSRN 3220053, 2018.
+
+\bibitem[Liu 等(2015)Liu, Patton, and Sheppard]{liu2015does}
+Liu~L~Y, Patton~A~J, Sheppard~K.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0304407615000329}{{Does
+  Anything Beat 5-minute RV? A Comparison of Realized Measures Across Multiple
+  Asset Classes}}[J].
+\newblock Journal of Econometrics, 2015, 187\allowbreak (1): 293-311.
+
+\bibitem[Da 等(2011)Da, Engelberg, and Gao]{2011-da-search}
+Da~Z, Engelberg~J, Gao~P.
+\newblock
+  \href{https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2011.01679.x}{{In
+  Search of Attention}}[J].
+\newblock The Journal of Finance, 2011, 66\allowbreak (5): 1461-1499.
+
+\bibitem[Giordani 等(2007)Giordani, Kohn, and van Dijk]{giordani2007unified}
+Giordani~P, Kohn~R, van Dijk~D.
+\newblock
+  \href{http://dx.doi.org/https://doi.org/10.1016/j.jeconom.2006.03.013}{{A
+  Unified Approach to Nonlinearity, Structural Change, and Outliers}}[J].
+\newblock Journal of Econometrics, 2007, 137\allowbreak (1): 112-133.
+
+\bibitem[Diks和Panchenko(2006)Diks and Panchenko]{DIKS20061647}
+Diks~C, Panchenko~V.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S016518890600056X}{{A
+  New Statistic and Practical Guidelines for Nonparametric Granger Causality
+  Testing}}[J].
+\newblock Journal of Economic Dynamics and Control, 2006, 30\allowbreak (9):
+  1647-1669.
+
+\bibitem[Koop和Potter(2007)Koop and Potter]{2007KoopPotter}
+Koop~G, Potter~S~M.
+\newblock
+  \href{https://academic.oup.com/restud/article-pdf/74/3/763/18399665/74-3-763.pdf}{{Estimation
+  and Forecasting in Models with Multiple Breaks}}[J].
+\newblock The Review of Economic Studies, 2007, 74\allowbreak (3): 763-789.
+
+\bibitem[Uhlig(1997)]{uhlig1997bayesian}
+Uhlig~H.
+\newblock \href{http://www.jstor.org/stable/2171813}{{Bayesian Vector
+  Autoregressions with Stochastic Volatility}}[J].
+\newblock Econometrica: Journal of the Econometric Society, 1997: 59-73.
+
+\bibitem[Sicherman 等(2015)Sicherman, Loewenstein, Seppi, and
+  Utkus]{2015-RFS-FinancialAttention}
+Sicherman~N, Loewenstein~G, Seppi~D~J, et~al.
+\newblock \href{https://doi.org/10.1093/rfs/hhv073}{{Financial Attention}}[J].
+\newblock The Review of Financial Studies, 2015, 29\allowbreak (4): 863-897.
+
+\bibitem[Gherzi 等(2014)Gherzi, Egan, Stewart, Haisley, and
+  Ayton]{2014-meerkat_effect}
+Gherzi~S, Egan~D, Stewart~N, et~al.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0167268114002145}{The
+  meerkat effect: Personality and market returns affect investors’ portfolio
+  monitoring behaviour}[J].
+\newblock Journal of Economic Behavior $\&$ Organization, 2014, 107: 512-526.
+
+\bibitem[Durbin和Koopman(2002)Durbin and Koopman]{2002Durbin_smoother}
+Durbin~J, Koopman~S~J.
+\newblock \href{https://doi.org/10.1093/biomet/89.3.603}{{A Simple and
+  Efficient Simulation Smoother for State Space Time Series Analysis}}[J].
+\newblock Biometrika, 2002, 89\allowbreak (3): 603-616.
+
+\bibitem[Bloom(2009)]{2009-Bloom}
+Bloom~N.
+\newblock \href{https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA6248}{{The
+  Impact of Uncertainty Shocks}}[J].
+\newblock Econometrica, 2009, 77\allowbreak (3): 623-685.
+
+\bibitem[陈国进\ 等(2017)陈国进, 张润泽, and
+  赵向琴]{2017chenguojin}
+陈国进, 张润泽, 赵向琴.
+\newblock 政策不确定性、消费行为与股票资产定价[J].
+\newblock 世界经济, 2017, 40\allowbreak (1): 116-141.
+
+\bibitem[杨子晖\ 等(2020)杨子晖, 陈里璇, and 陈雨恬]{2020yang}
+杨子晖, 陈里璇, 陈雨恬.
+\newblock
+  \href{https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjExMDI2Eg1qanlqMjAyMDAxMDEwGghoY3V3cHg2dw%3D%3D}{经济政策不确定性与系统性金融风险的跨市场传染——基于非线性网络关联的研究}[J].
+\newblock 经济研究, 2020, 55\allowbreak (1): 65-81.
+
+\bibitem[Wang 等(2020)Wang, Li, and He]{2020WANGasy}
+Wang~Z, Li~Y, He~F.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0275531919309419}{{Asymmetric
+  Volatility Spillovers Between Economic Policy Uncertainty and Stock Markets:
+  Evidence from China}}[J].
+\newblock Research in International Business and Finance, 2020, 53: 101233.
+
+\bibitem[Hamilton(1994)]{1994-tsa-Hamilton}
+Hamilton~J~D.
+\newblock
+  \href{http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0691042896}{{Time
+  Series Analysis}}[M].
+\newblock 1st ed.
+\newblock Princeton University: Princeton University Press, 1994.
+
+\bibitem[Spiegelhalter 等(2002)Spiegelhalter, Best, Carlin, and Van
+  Der~Linde]{2002-BayesianFit}
+Spiegelhalter~D~J, Best~N~G, Carlin~B~P, et~al.
+\newblock
+  \href{https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00353}{{Bayesian
+  Measures of Model Complexity and Fit}}[J].
+\newblock Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology), 2002, 64\allowbreak (4): 583-639.
+
+\bibitem[郑挺国和刘堂勇(2018)郑挺国 and 刘堂勇]{2018zhengtg}
+郑挺国, 刘堂勇.
+\newblock
+  \href{https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjExMDI2EgxqangyMDE4MDIwMTAaCHU2ejg3M3pv}{股市波动溢出效应及其影响因素分析}[J].
+\newblock 经济学（季刊）, 2018, 17\allowbreak (2): 669-692.
+
+\bibitem[{Baruník}和{Ellington}(2020){Baruník} and
+  {Ellington}]{2020-Barunik}
+{Baruník}~J, {Ellington}~M.
+\newblock
+  \href{https://ui.adsabs.harvard.edu/abs/2020arXiv200707842B}{{Persistence in
+  Economic Networks}}[J].
+\newblock arXiv e-prints, 2020: arXiv:2007.07842.
+
+\bibitem[Nakajima(2011)]{2011Nakajima}
+Nakajima~J.
+\newblock
+  \href{https://www.imes.boj.or.jp/research/papers/english/11-E-09.pdf}{Time-varying
+  parameter var model with stochastic volatility: An overview of methodology
+  and empirical applications}[J].
+\newblock Monetary and and Economic Studies, 2011, 29: 107-142.
+
+\bibitem[Iliev 等(2021)Iliev, Kalodimos, and Lowry]{2021-Peter}
+Iliev~P, Kalodimos~J, Lowry~M.
+\newblock \href{https://doi.org/10.1093/rfs/hhab003}{{Investors’ Attention to
+  Corporate Governance}}[J].
+\newblock The Review of Financial Studies, 2021, 34\allowbreak (12): 5581-5628.
+
+\bibitem[俞庆进和张兵(2012)俞庆进 and 张兵]{2012yuzhang}
+俞庆进, 张兵.
+\newblock
+  \href{https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2012&filename=JRYJ201208015&uniplatform=NZKPT&v=0v72DW-iZqjcb3qgDmAfrNon4AtoCpufDEFo4b-wuMJJxo2Mgvp7kE_4b0jfI6d7}{投资者有限关注与股票收益——以百度指数作为关注度的一项实证研究}[J].
+\newblock 金融研究, 2012\allowbreak (08): 152-165.
+
+\bibitem[施荣盛(2012)]{2012-shi}
+施荣盛.
+\newblock
+  \href{https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2012&filename=TZYJ201206013&uniplatform=NZKPT&v=SRoYtOnt6p_EIurOfnxEIPISxViZTlq_I0rKLhre1JU8H-pBLXdpVixMp53Oxzc0}{投资者关注与分析师评级漂移——来自中国股票市场的证据}[J].
+\newblock 投资研究, 2012, 31\allowbreak (06): 133-145.
+
+\bibitem[王勇和杨庆运(2014)王勇 and 杨庆运]{2014-wang}
+王勇, 杨庆运.
+\newblock
+  \href{https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2014&filename=TZYJ201402012&uniplatform=NZKPT&v=jmWhSzDO58sgXm8jr5mw3TI03LgjZaUZlKsp46WviH518VBjsNFhYt1JSYv2R5Ua}{我国网络关注度对股票收益的影响——基于和讯关注度的实证研究}[J].
+\newblock 投资研究, 2014, 33\allowbreak (02): 143-149.
+
+\bibitem[Cai和Liu(2020)Cai and Liu]{RePEc:kan:wpaper:202017}
+Cai~Z, Liu~X.
+\newblock \href{https://ideas.repec.org/p/kan/wpaper/202017.html}{{A
+  Functional-Coefficient VAR Model for Dynamic Quantiles with Constructing
+  Financial Network}: 202017}[R].
+\newblock Kansas: University of Kansas, Department of Economics, 2020.
+
+\bibitem[Galai和Sade(2006)Galai and Sade]{2006-Galai-JB}
+Galai~D, Sade~O.
+\newblock \href{http://www.jstor.org/stable/10.1086/505250}{The “ostrich
+  effect” and the relationship between the liquidity and the yields of
+  financial assets}[J].
+\newblock The Journal of Business, 2006, 79\allowbreak (5): 2741-2759.
+
+\bibitem[Fama(1970)]{1970-Fama}
+Fama~E~F.
+\newblock \href{http://www.jstor.org/stable/2325486}{Efficient capital markets:
+  A review of theory and empirical work}[J].
+\newblock The Journal of Finance, 1970, 25\allowbreak (2): 383-417.
+
+\bibitem[Kaustia和Knüpfer(2012)Kaustia and Knüpfer]{2012-Kaustia-peer}
+Kaustia~M, Knüpfer~S.
+\newblock
+  \href{https://www.sciencedirect.com/science/article/pii/S0304405X11001449}{{Peer
+  Performance and Stock Market Entry}}[J].
+\newblock Journal of Financial Economics, 2012, 104\allowbreak (2): 321-338.
+
+\end{thebibliography}
